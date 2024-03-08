@@ -1,5 +1,5 @@
 ---
-title: Dirctions  
+title: Directions  
 layout: home
 ---
 
