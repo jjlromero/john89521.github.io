@@ -6,7 +6,7 @@ layout: home
 # Placeholder for first Post 2  
 
 This will eventually be a blog post, but for right now it is just a placeholder.   Going to put an image in below.  
-![Hubot looking after Mona](https://github.com/john89521/john89521.github.io/blob/main/IMG/hubotandmona.png)  
+![Hubot looking after Mona](/../main/IMG/hubotandmona.png)  
 
 
 ----
