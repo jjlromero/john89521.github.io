@@ -5,7 +5,10 @@ layout: home
 
 # Placeholder for first Post 2  
 
-This will eventually be a blog post, but for right now it is just a placeholder.   Going to put an image in below.  
+This will eventually be a blog post, but for right now it is just a placeholder.   Going to put an image in below.  Note to self: the way to put in the image is 
+```
+![alt text](/folder/image)
+```
 ![Hubot looking after Mona](/IMG/hubotandmona.png)  
 
 
