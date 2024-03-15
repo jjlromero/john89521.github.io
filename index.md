@@ -13,7 +13,7 @@ The flow for this template:
 - Open in GitHub.com.   
 - Open in GitHub Desktop, then have Desktop open VS Code.  
 - Edit or add files in VS Code.  
-- Make commits in Desktop. The *Push origin* button appears. 
+- Make commits in Desktop. The **Push origin** button appears. 
 - It takes about a minute for the Actions to run and incorporate the changes.  
 - After Actions runs and green check marks display, refresh the web site to show changes.  
 
