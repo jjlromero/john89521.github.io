@@ -17,6 +17,8 @@ The flow for this template:
 1. It takes about a minute for the Actions to run and incorporate the changes.  
 1. After Actions runs and green check marks display, refresh the web site to show changes.  
 
+The finished product of this template is quite nice. [See it here](https://just-the-docs.com).  
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
