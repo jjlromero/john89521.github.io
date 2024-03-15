@@ -18,8 +18,9 @@ The flow for this template:
 1. After Actions runs and green check marks display, refresh the web site to show changes.  
 
 The finished product of this template is quite nice. [See it here](https://just-the-docs.com).  
+One thing I like working with GitHub Desktop: it automatically sees my changes and gets them ready to push up to the repo.  One thing I do find clunky is waiting for Actions to go through it's motions. I imagine if the edits or changes are large, then Actions will take even longer. It goes back to the idea of commit often, which each change so you can at least get a SHA should you have to go back in time to correct something. 
 
-One thing I like working with GitHub Desktop: it automatically sees my changes and gets them ready to push up to the repo.  One thing I do find clunky is waiting for Actions to go through it's motions. I imagine if the edits or changes are large, then Actions will take even longer. It goes back to the idea of commit often, which each change so you can at least get a SHA should you have to go back in time to correct something.  
+ 
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
