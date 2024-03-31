@@ -1,11 +1,14 @@
 ---
-title: Post 2  
+title: Post 3  
 layout: home
 ---
 
 # Placeholder for first Post 3  
 
-This will eventually be a blog post, but for right now it is just a placeholder.   Going to put an image in below.  Note to self: the way to put in the image is 
+This will eventually be a blog post, but for right now it is just a placeholder.   
+Going to put an image in below.  
+**The image is in post 2.**  
+Note to self: the way to put in the image is 
 ```
 ![alt text](/folder/image)
 ```
