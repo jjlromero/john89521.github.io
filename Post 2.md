@@ -3,7 +3,7 @@ title: Post 2
 layout: home
 ---
 
-# Placeholder for first Post 2  
+# Image - Post 2  
 
 This will eventually be a blog post, but for right now it is just a placeholder.   Going to put an image in below.  Note to self: the way to put in the image is 
 ```
