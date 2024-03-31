@@ -5,25 +5,21 @@ layout: home
 # Greetings  
 The directions to this template are in the [directions.md](https://john89521.github.io/directions.html) file.
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This is the _index_ file and it appears like a landing page when the HTML is rendered.  
 
-More specifically, the created site:
+The flow for this template:
+1. Open GitHub.com.   
+1. Open in GitHub Desktop, then have Desktop open VS Code.  
+1. Edit or add files in VS Code.  
+1. Make commits in Desktop. The **Push origin** button appears. 
+1. It takes about a minute for the Actions to run and incorporate the changes.  
+1. After Actions runs and green check marks display, refresh the web site to show changes.  
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+The finished product of this template is quite nice. [See it here](https://just-the-docs.com).  
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+One thing I like working with GitHub Desktop: it automatically sees my changes and gets them ready to push up to the repo.  One thing I do find clunky is waiting for Actions to go through it's motions. I imagine if the edits or changes are large, then Actions will take even longer. It goes back to the idea of commit often, which each change so you can at least get a SHA should you have to go back in time to correct something.  
 
 ----
 
